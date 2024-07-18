@@ -213,5 +213,4 @@ public class Example {
         assertTrue(travelPackage.getPassengers().contains(passenger));
     }
 
-    // Add more unit tests for other methods as needed
 }
